@@ -1,2 +1,2 @@
 # leetcode
-Leetcode Python版答案 by Boyue Zheng
+Python版答案 by Boyue Zheng
